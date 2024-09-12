@@ -1,6 +1,9 @@
 # Building Secure and Trustworthy LLMs Using NVIDIA Guardrails
 This is the repository for the LinkedIn Learning course Building Secure and Trustworthy LLMs Using NVIDIA Guardrails. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+Guardrails are essential components of large language models (LLMs) that can help to safeguard against misuse, define conversational standards, and enhance public trust in AI technologies. In this course, instructor Nayan Saxena explores the importance of ethical AI deployment to understand how NVIDIA NeMo Guardrails enforces LLM safety and integrity. Learn how to construct conversational guidelines using Colang, leverage advanced functionalities to craft dynamic LLM interactions, augment LLM capabilities with custom actions, and elevate response quality and contextual accuracy with retrieval-augmented generation (RAG). By witnessing guardrails in action and analyzing real-world case studies, you'll also acquire skills and best practices for implementing secure, user-centric AI systems. This course is ideal for AI practitioners, developers, and ethical technology advocates seeking to advance their knowledge in LLM safety, ethics, and application design for responsible AI.
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
@@ -21,15 +24,19 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+## Instructor
+
+Nayan Saxena
+
+Deep Learning Expert
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/nayan-saxena?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/building-secure-and-trustworthy-llms-using-nvidia-guardrails
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQEkaMCGTIKc4A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1724786401499?e=2147483647&v=beta&t=qt1XNaNn0lsENZuSDqISzs35gr6aCVYTnQxAHcne2D0
 
